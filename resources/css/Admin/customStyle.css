@@ -1,0 +1,6 @@
+/* .td-center {
+    vertical-align: middle;
+} */
+.table td {
+    vertical-align: middle;
+}
